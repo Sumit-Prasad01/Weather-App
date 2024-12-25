@@ -55,7 +55,7 @@ class WeatherApp(QWidget):
         
         
         layout = QVBoxLayout()
-        layout.setContentsMargins(20, 20, 20, 20)  # Add padding to the layout
+        layout.setContentsMargins(20, 20, 20, 20)  
         
         
         layout.addWidget(self.city_input)
